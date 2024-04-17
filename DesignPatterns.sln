@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesingPattern", "FacadeDesingPattern\FacadeDesingPattern.csproj", "{6319C6DF-6E92-4460-AFEE-3D192A47CE33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDesingPattern", "FacadeDesingPattern\FacadeDesingPattern.csproj", "{6319C6DF-6E92-4460-AFEE-3D192A47CE33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{C469B8CE-66E1-4956-B2D7-E0199CEFD2B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{C469B8CE-66E1-4956-B2D7-E0199CEFD2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{39CF722E-1965-491A-89BB-B8A195C91CE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C469B8CE-66E1-4956-B2D7-E0199CEFD2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C469B8CE-66E1-4956-B2D7-E0199CEFD2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C469B8CE-66E1-4956-B2D7-E0199CEFD2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CF722E-1965-491A-89BB-B8A195C91CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CF722E-1965-491A-89BB-B8A195C91CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CF722E-1965-491A-89BB-B8A195C91CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CF722E-1965-491A-89BB-B8A195C91CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
